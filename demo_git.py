@@ -1,0 +1,1 @@
+print('git init: update a local folder to git repository')
